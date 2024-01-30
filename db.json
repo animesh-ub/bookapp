@@ -1,0 +1,76 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publication_year": 1960,
+      "description": "A classic novel depicting racial injustice in the American South.",
+      "isbn": "9780099549482",
+      "cover_image": "https://m.media-amazon.com/images/I/41j-s9fHJcL._SY445_SX342_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publication_year": 1813,
+      "description": "A classic novel exploring themes of love, marriage, and social norms.",
+      "isbn": "9780141439518",
+      "cover_image": "https://m.media-amazon.com/images/I/61H3BvN-naL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publication_year": 1925,
+      "description": "A tale of the American Dream, wealth, and love during the Roaring Twenties.",
+      "isbn": "9780743273565",
+      "cover_image": "https://m.media-amazon.com/images/I/41XMaCHkrgL.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "publication_year": 1954,
+      "description": "An epic fantasy saga about the quest to destroy the One Ring.",
+      "isbn": "9780544003415",
+      "cover_image": "https://m.media-amazon.com/images/I/51Jh5DZzPFL._SY445_SX342_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "publication_year": 1951,
+      "description": "A classic coming-of-age novel following Holden Caulfield's journey.",
+      "isbn": "7543321726",
+      "cover_image": "https://m.media-amazon.com/images/I/91HPG31dTwL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "publication_year": 1937,
+      "description": "The prequel to The Lord of the Rings, following Bilbo Baggins' journey.",
+      "isbn": "0345272579",
+      "cover_image": "https://m.media-amazon.com/images/I/51HJMYGOdBL._SY445_SX342_.jpg"
+    },
+    {
+      "id": 9,
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel Garcia Marquez",
+      "publication_year": 1967,
+      "description": "A multi-generational saga of the Buendía family in the fictional town of Macondo.",
+      "isbn": "0140157514",
+      "cover_image": "https://m.media-amazon.com/images/I/51fbxh0TD-L._SY445_SX342_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "publication_year": 1869,
+      "description": "A monumental work depicting the events of Russian society during the Napoleonic era.",
+      "isbn": "1400079985",
+      "cover_image": "https://m.media-amazon.com/images/I/513l4nDQYyL._SY445_SX342_.jpg "
+    }
+  ]
+}

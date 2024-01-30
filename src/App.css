@@ -1,0 +1,95 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+
+.App {
+  height: 100% ;
+}
+#main{
+  height: 100% ;
+  background-color: #f0f0f0;
+  font-family: 'Ubuntu', sans-serif;
+
+
+  /* Light Gray: #f0f0f0 */
+  /* Light Green: #dcedc8 */
+  /* Beige: #f5f5dc
+  Light Taupe: #d2b48c */
+  /* Light Gray: #f0f0f0
+Off-White: #ffffff */
+
+}
+/* .BookCar
+  box-shadow: 5px 3px 20px gray ;
+} */
+.BookCard:hover{
+  box-shadow: 0px 15px 26px rgba(0, 0, 0, 0.50);
+  -webkit-transition: all 0.2s ease-in;
+  -moz-transition: all 0.2s ease-in;
+  -ms-transition: all 0.2s ease-in;
+  -o-transition: all 0.2s ease-in;
+  transition: all 0.2s ease-in;
+  -webkit-transform:scale(1.15);
+  -moz-transform:scale(1.15);
+  -ms-transform:scale(1.15);
+  -o-transform:scale(1.15);
+  transform:scale(1.15);
+  margin-top: 50px;
+}
+textarea{ 
+  resize: none !important;
+  height: 100px;
+}
+#formdiv{
+  width: 35% ;
+  background-color:rgb(254, 216, 222) ;
+}
+label{
+  color: #000;
+  opacity: 100%;
+}
+
+#addbookheading{
+  font-weight: 700;
+}
+/* input, select, textarea{
+  box-shadow: 5px 5px 10px gray ;
+} */
+
+.inputs{
+}
+
+#titleimg{
+  height: 500px;
+}
+
+#threedots{
+  border: transparent !important;
+  height: 40px;
+  width: 40px;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.BookCardImage{
+  height: 300px;
+  width: 100%;
+  left: 0;
+  position: relative;
+}
+
+#booksheading{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 700;
+  font-size: 50px !important;
+  text-shadow:  1px 1px 5px gray ;
+}
+
+.card-title{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 20px;
+}
+
+.viewDis{
+  font-family: 'Ubuntu', sans-serif;
+}
